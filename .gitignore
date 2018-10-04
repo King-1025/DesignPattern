@@ -3,6 +3,7 @@ bin/
 .classpath
 .project
 */build
+.gradle
 
 # Compiled class file
 *.class
